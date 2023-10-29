@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Assingment_03" targetName="Assingment_03" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07293398-e094-4293-b075-a8795d6067d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2PB0rc16pPjKznuGSuHPrZsKTwM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "G:/Assignment_edited",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assingment_03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assingment_03" TARGET_NAME="Assingment_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assingment_03" RUN_TARGET_NAME="Assingment_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07293398-e094-4293-b075-a8795d6067d2" name="Changes" comment="" />
+      <created>1682915366678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682915366678</updated>
+      <workItem from="1682915368226" duration="29000" />
+      <workItem from="1682915408927" duration="11000" />
+      <workItem from="1682915474455" duration="1460000" />
+      <workItem from="1682917359267" duration="4049000" />
+      <workItem from="1682923687937" duration="722000" />
+      <workItem from="1682925843828" duration="11065000" />
+      <workItem from="1682947899510" duration="2522000" />
+      <workItem from="1682991727928" duration="2805000" />
+      <workItem from="1682996279739" duration="10639000" />
+      <workItem from="1683079691198" duration="109000" />
+      <workItem from="1683080092368" duration="15281000" />
+      <workItem from="1683105475770" duration="9212000" />
+      <workItem from="1683117776457" duration="8399000" />
+      <workItem from="1683167386961" duration="16312000" />
+      <workItem from="1683198017859" duration="1523000" />
+      <workItem from="1683206826250" duration="4000" />
+      <workItem from="1683209382535" duration="73000" />
+      <workItem from="1683209555868" duration="13957000" />
+      <workItem from="1683254140639" duration="14054000" />
+      <workItem from="1683277243049" duration="198000" />
+      <workItem from="1683341654230" duration="455000" />
+      <workItem from="1683350889432" duration="3557000" />
+      <workItem from="1683359533344" duration="668000" />
+      <workItem from="1683381429406" duration="270000" />
+      <workItem from="1683432623162" duration="8824000" />
+      <workItem from="1683610277354" duration="24000" />
+      <workItem from="1683688497281" duration="79000" />
+      <workItem from="1683785967536" duration="6704000" />
+      <workItem from="1683795899646" duration="1429000" />
+      <workItem from="1683817154507" duration="6736000" />
+      <workItem from="1683866855086" duration="9095000" />
+      <workItem from="1683880150126" duration="411000" />
+      <workItem from="1683901850750" duration="334000" />
+      <workItem from="1683902301617" duration="3799000" />
+      <workItem from="1683986994347" duration="5015000" />
+      <workItem from="1683992842168" duration="587000" />
+      <workItem from="1683993884255" duration="46000" />
+      <workItem from="1683994363004" duration="41000" />
+      <workItem from="1684036287156" duration="18000" />
+      <workItem from="1684036340265" duration="4000" />
+      <workItem from="1684077129294" duration="1091000" />
+      <workItem from="1684117059111" duration="782000" />
+      <workItem from="1684127000179" duration="20000" />
+      <workItem from="1684127032409" duration="89000" />
+      <workItem from="1684127161871" duration="7588000" />
+      <workItem from="1684139501089" duration="5419000" />
+      <workItem from="1684145925749" duration="8061000" />
+      <workItem from="1684158085098" duration="5294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Word.h</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Word.h</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Dictionary.h</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

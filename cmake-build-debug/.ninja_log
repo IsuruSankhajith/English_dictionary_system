@@ -1,0 +1,8 @@
+# ninja log v5
+19	1147	7058581236875533	CMakeFiles/Assingment_03.dir/Dictionary.cpp.obj	9727f51ff36666d6
+47	12899	7058520532085449	CMakeFiles/Assingment_03.dir/main.cpp.obj	502d828f2712f6f2
+1372	3048	7058315527209594	CMakeFiles/Assingment_03.dir/Intermediate_Tasks_.cpp.obj	e07c94c96fc05e6
+1156	1857	7058581243844804	Assingment_03.exe	46ecb5724f7ed84d
+65	1413	7058315510793473	CMakeFiles/Assingment_03.dir/ExtendedDictionary.cpp.obj	6cbb6004c970a390
+15	1422	7058613142123642	build.ninja	e17d8bf8eedbc368
+112	1319	7058370413056788	CMakeFiles/Assingment_03.dir/Basic_Tasks.cpp.obj	9c7276454026edb8
